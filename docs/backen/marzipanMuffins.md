@@ -23,4 +23,4 @@
 1. Trockene Zutaten gründlich vermischen
 2. Restliche Zutaten dazugeben und zu einem Teig verrühren
 3. Teig in Muffinformen füllen
-4. 25-30 Minuten bei 200°C im Backofen backen
+4. Muffins für 25-30 Minuten bei 200°C im Backofen backen
