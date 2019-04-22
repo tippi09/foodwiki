@@ -1,6 +1,6 @@
 # Marzipan-Muffins
 
-**Zubereitungszeit: 60 Minuten**
+**Zubereitungszeit: 45 Minuten**
 
 | Menge <img width=100/> | <img width=200/> Zutat |
 | ------------- | -------------:|

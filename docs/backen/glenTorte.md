@@ -1,4 +1,4 @@
-# Glen-Mokkatorte
+# Glen-Torte
 
 **Zubereitungszeit: 2 Stunden**
 
