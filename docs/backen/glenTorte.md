@@ -22,6 +22,7 @@ Eine "Buttercremetorte" mit Mokka-Geschmack. Ohne Zugabe von Kaffeepulver auch f
 1. Trockene Zutaten miteinander vermengen
 2. Flüssige Komponenten hinzugeben
 3. Bei 175°C für etwa 40-50 Minuten backen
+4. Gebackenen Boden in der Mitte durchschneiden
 
 ## Mokkacreme
 
@@ -43,3 +44,4 @@ Eine "Buttercremetorte" mit Mokka-Geschmack. Ohne Zugabe von Kaffeepulver auch f
 4. Margarine und Pudding auf Zimmertemperatur bringen
 5. Margarine mit einem Handrührgerät schaumig schlagen
 6. Pudding löffelweise in der Margarine unterschlagen
+7. Creme auf den Böden verteilen und Torte nach Wunsch verzieren
