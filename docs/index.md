@@ -4,5 +4,3 @@
 [Glen-Torte](backen/glenTorte.md)
 
 ## Kochen
-
-## Test
